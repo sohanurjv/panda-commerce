@@ -1,5 +1,15 @@
+#owner{
+    text-align: center;
+    color: rgb(168, 75, 13);
+    margin-top: 70px;
+}
+span{
+    color: indigo;
+    font-size: 30px;
+    font-style: italic;
+}
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
 .orange-bg{
     background-color: #fceae8;
